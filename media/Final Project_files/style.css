@@ -1,0 +1,42 @@
+* {
+    box-sizing: border-box;
+}
+
+:root{
+    --prim: #77787a;
+    --secondary: #3d195b;
+    --bottomWhite: #f4f4f4;
+    --mainWhite: #ffff;
+}
+
+body {
+    scroll-behavior: smooth;
+    font-family: 'Anek Tamil', sans-serif;
+    font-family: 'Merriweather', serif;
+    font-family: 'Nanum Gothic', sans-serif;
+}
+
+.header {
+    padding: 10px 0;
+    background-color: #77787a;
+    border: 2px solid black;
+    /* max-height: 100px; */
+}
+
+.logo-img {
+    max-width: 100px;
+    max-height: 50px;
+    border: 2px solid black;
+}
+
+.nav {
+    justify-content: right;
+}
+
+
+.nav-link {
+    color: white;
+    /* margin-left: auto; */
+}
+
+

@@ -1,0 +1,14 @@
+Aquamarine - #05f2ff
+Purple - #3d195b
+https://www.online-image-editor.com/
+grey - #77787a
+bottom-white- #f4f4f4
+main-white -#fffff
+
+font-family: 'Anek Tamil', sans-serif;
+font-family: 'Merriweather', serif;
+font-family: 'Nanum Gothic', sans-serif;
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Anek+Tamil:wght@300&family=Merriweather:ital@1&family=Nanum+Gothic:wght@400;700&display=swap" rel="stylesheet">

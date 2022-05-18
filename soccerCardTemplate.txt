@@ -1,0 +1,63 @@
+<div class="container">
+
+	<!-- Your HEADER / NAVIGATION row -->
+	<div class="row">
+		<div class="col-6">
+			FOOTBALL
+		</div>
+		<div class="col-6">
+			<!-- 
+			Your navigation items go here, i.e.
+			HOME    ABOUT US   BLOG    DETAIL    TEAM    CONTACT    (Search)  (Cart)  MORE
+			-->
+		</div>
+	</div>
+
+	<!-- The row with the background image of a stadium -->
+	<div class="row">
+		<div class="col-12" style="text-align: center; background-image:('\images\stadium.png')">
+			<h2>About Us</h2><br /><br />
+			Lorem Ipsum
+		</div>
+	</div>
+
+	<!-- The 'We Make History' section -->
+	<div class="row">
+		<div class="col-12">
+			We Make History<br />
+			Lorem Ipsum<br />
+			Lorem Ipsum solor sit amet ... etc blah bla bla.
+		</div>
+	</div>
+
+	<div class="row">
+		<div class="col-12" style="text-align: center;">
+			<h2>Trophies we won</h2>
+		</div>
+	</div>
+
+	<!-- Your images / cards for sale:  -->
+	<div class="row">
+		<div class="col-3" style="text-align: center">
+			<img src="\images\country.png" /><br />
+			<b>Leage Cup of Country</b><br />
+			Lorem Ipsum
+		</div>
+		<div class="col-3" style="text-align: center>
+			<img src="\images\champion.png" /><br />
+			<b>Champion League</b><br />
+			Lorem Ipsum
+		</div>
+		<div class="col-3" style="text-align: center>
+			<img src="\images\National.png" /><br />
+			<b>National League</b><br />
+			Lorem Ipsum
+		</div>
+		<div class="col-3" style="text-align: center>
+			<img src="\images\premier.png" /><br />
+			<b>Premier League</b><br />
+			Lorem Ipsum
+		</div>
+	</div>
+
+</div>
